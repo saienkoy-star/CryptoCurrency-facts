@@ -1,0 +1,21 @@
+.nav {
+    display: flex;
+    align-items: center;
+}
+.nav-element {
+    padding-right: 40px;
+    font-size: 20px;
+    
+}
+a {
+    text-decoration: none;
+
+}
+a:visited {
+    color: black;
+}
+.title {
+    font-size: 40px;
+    margin-left: 100px;
+    font-family: "Montserrat";
+}
